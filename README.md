@@ -80,7 +80,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Google AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=flat&logo=googleadmob&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black)
 ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-AECBFA?style=flat&logo=googlepubsub&logoColor=black)
 ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
