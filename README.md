@@ -18,3 +18,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1f1f1f?style=flat&logo=wireshark&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat&logo=figma&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariaDB&logoColor=white)
