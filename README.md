@@ -19,4 +19,5 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat&logo=figma&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white)
-![Openai](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Fireship](https://img.shields.io/badge/Fireship-EB844E?style=flat&logo=fireship&logoColor=white)
+
