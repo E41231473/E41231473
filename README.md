@@ -20,4 +20,5 @@
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat&logo=figma&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariaDB&logoColor=white)
 ![Fireship](https://img.shields.io/badge/Fireship-EB844E?style=flat&logo=fireship&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 
