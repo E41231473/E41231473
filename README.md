@@ -83,7 +83,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA?style=flat&logo=googlecloudstorage&logoColor=black)
 ![Google Pub/Sub](https://img.shields.io/badge/Google%20Pub%2FSub-AECBFA?style=flat&logo=googlepubsub&logoColor=black)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
 ![Google Bigtable](https://img.shields.io/badge/Google%20Bigtable-4285F4?style=flat&logo=googlebigtable&logoColor=white)
 ![Google Dataproc](https://img.shields.io/badge/Google%20Dataproc-4285F4?style=flat&logo=googledataproc&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-FF9900?style=flat&logo=googleanalytics&logoColor=white)
