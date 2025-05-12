@@ -87,7 +87,7 @@
 ![Google Bigtable](https://img.shields.io/badge/Google%20Bigtable-669DF6?style=flat&logo=googlebigtable&logoColor=white)
 ![Google Dataproc](https://img.shields.io/badge/Google%20Dataproc-AECBFA?style=flat&logo=googledataproc&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6?style=flat&logo=googledatastudio&logoColor=black)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6?style=flat&logo=googledatastudio&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=flat&logo=googletagmanager&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat&logo=googleearthengine&logoColor=white)
 ![Google Authenticator](https://img.shields.io/badge/Google%20Authenticator-4285F4?style=flat&logo=googleauthenticator&logoColor=white)
