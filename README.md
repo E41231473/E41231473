@@ -19,3 +19,4 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=flat&logo=figma&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariaDB&logoColor=white)
+![Openai](https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white)
