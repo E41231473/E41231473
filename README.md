@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
