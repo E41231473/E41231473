@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://e41231473.github.io/portfolio/">wili</a> 
+  Hi there, I'm <a href="https://e41231473.github.io/portfolio/">wili</a><img src="https://media.tenor.com/0PuzgF3iL1UAAAAj/skull.gif" alt="wave gif" height="35"/> 
 </h1>
 
 <p align="center">
