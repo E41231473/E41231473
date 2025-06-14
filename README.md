@@ -2,7 +2,7 @@
 
 ![image](./header_.png)
 
-- 📫 Ping me by [Email](mailto:syahbanwilly131@gmail.com)
+- 📫 Ping me by [Email](syahbanwilly131@gmail.com)
 
  ### Github Statistic
 <p align="center">
