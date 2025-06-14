@@ -2,7 +2,6 @@
 
 ![image](./header_.png)
 
-- 📫 Ping me by [Email](syahbanwilly131@gmail.com)
 
  ### Github Statistic
 <p align="center">
